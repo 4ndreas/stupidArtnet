@@ -1,4 +1,4 @@
-from .stupidArtnet import StupidArtnet
+from stupidArtnet import StupidArtnet
 import time
 import random
 import socket
